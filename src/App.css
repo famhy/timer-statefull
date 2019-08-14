@@ -1,0 +1,27 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-self: center;
+  font-size: 54px;
+  font-weight: 300;
+  margin-top: 5%;
+}
+.Time{
+  margin: 5px;
+}
+.time-section{
+  margin-bottom: 0;
+}
+.time-name{
+  font-size: 28px;
+  color: rgb(144, 144, 144);
+}
+
+.button{
+  font-size: 24px;
+  background: white;
+  margin: 5px ;
+  box-shadow: none;
+  border-radius: 5px;
+  border:1px solid red;
+}
